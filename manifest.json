@@ -1,0 +1,21 @@
+{
+  "name": "Tareq Aziz - Portfolio & Blog",
+  "short_name": "Tareq Aziz",
+  "description": "Official portfolio of Tareq Aziz featuring projects, blog posts, and contact information.",
+  "start_url": "/?m=1",
+  "display": "standalone",
+  "background_color": "#064e3b",
+  "theme_color": "#064e3b",
+  "icons": [
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFupmQFasbPRr4ogy_nzJ1vFJcYHZZ-TgzDyuMhwS4_heSSlu4FWxLVPry0PQOEPxh_qXWoyDoSbFgesHgePdH2C2vvpkZrariq_X9YSm4gEQnxwNYvMkVG-xkXII5FkACmjre8JlTY0CSzkOzz05lKIokzN_OM-D_jkJimQrT3-xbFk1VhS2D6qNVjEc/s192/Favicon-Tareq-Aziz.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFupmQFasbPRr4ogy_nzJ1vFJcYHZZ-TgzDyuMhwS4_heSSlu4FWxLVPry0PQOEPxh_qXWoyDoSbFgesHgePdH2C2vvpkZrariq_X9YSm4gEQnxwNYvMkVG-xkXII5FkACmjre8JlTY0CSzkOzz05lKIokzN_OM-D_jkJimQrT3-xbFk1VhS2D6qNVjEc/s512/Favicon-Tareq-Aziz.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
